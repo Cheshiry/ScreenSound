@@ -1,3 +1,4 @@
 //Screen Sound
 
-String mensagemDeBoasVindas= "Boas vindas";
+String mensagemDeBoasVindas= "Boas Vinda";
+Console.WriteLine(mensagemDeBoasVindas);
